@@ -1,3 +1,8 @@
+"""
+Shadarien Williams
+Contact: shadarien@shadwilliams.dev
+
+"""
 import pandas as pd
 import csv
 from datetime import datetime
